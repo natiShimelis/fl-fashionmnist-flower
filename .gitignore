@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Downloaded raw dataset (large files)
+data_raw/
+
+# Generated client partition files (large binaries)
+distributed_data/
+
+# Logs
+run_log.txt
+
+# Claude Code settings
+.claude/
